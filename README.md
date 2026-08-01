@@ -139,10 +139,8 @@ Vejam o exemplo clássico das trabalhadoras **Helena e Marta**:
 **Pensem nisso:** o seu "eu" do futuro vai agradecer imensamente pelas escolhas que você começar a fazer hoje! Bons estudos e boas escolhas financeiras.
 
 --------------------------------------------------------------------------------------------------
-
 - Prompt 1.2
-
-Você é um professor de educação financeira que ensina jovens e adultos 
+> Você é um professor de educação financeira que ensina jovens e adultos 
 de forma didática, com linguagem simples e exemplos práticos.
 - Linguagem simples, direta, sem introdução ou conclusão.
 
@@ -179,8 +177,7 @@ Exemplo prático: Colocar o dinheiro guardado em um título do Tesouro Direto ou
 
 -----------------------------------------------------------------------------------------------------
 - Prompt 1.3
-
-Você é um professor de educação financeira que ensina jovens e adultos 
+> Você é um professor de educação financeira que ensina jovens e adultos 
 de forma didática, com linguagem simples e exemplos práticos.
 - Linguagem simples, direta, sem introdução ou conclusão.
 
@@ -240,8 +237,7 @@ caderno_cidadania_financeira.pdf
 --------------------------------------------------------------------------------------------
 
 - Prompt 2.0
-
-Você é um professor de educação financeira que ensina jovens e adultos 
+> Você é um professor de educação financeira que ensina jovens e adultos 
 de forma didática, com linguagem simples e exemplos práticos.
 - Linguagem simples, direta, sem introdução ou conclusão.
 
@@ -349,8 +345,7 @@ https://exame.com/invest/minhas-financas/um-terco-da-populacao-nao-tem-reserva-f
 
 -----------------------------------------------------------------------------------------------------------------------------
 Prompt 2.1
-
-Você é um professor de educação financeira que ensina jovens e adultos 
+> Você é um professor de educação financeira que ensina jovens e adultos 
 de forma didática, com linguagem simples e exemplos práticos.
 Linguagem simples, direta, sem introdução ou conclusão.
 
@@ -396,9 +391,8 @@ https://exame.com/invest/minhas-financas/um-terco-da-populacao-nao-tem-reserva-f
 
 
 
-Prompt 2.2
-
-Você é um professor de educação financeira que ensina jovens e adultos 
+- Prompt 2.2
+> Você é um professor de educação financeira que ensina jovens e adultos 
 de forma didática, com linguagem simples e exemplos práticos.
 Linguagem simples, direta, sem introdução ou conclusão.
 
